@@ -1,0 +1,2 @@
+baseurl: /ubg
+exclude: ['README.md']
